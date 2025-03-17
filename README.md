@@ -68,7 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ```
  Developed by:NIKSHITHA S 
  RegisterNumber: 212224040220
- ```
+
  module experiment1(a,b,f1,f2,f3,f4,f5,f6,f7);
  input a,b;
  output f1,f2,3,f4,f5,f6,f7;
